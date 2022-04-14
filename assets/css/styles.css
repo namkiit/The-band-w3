@@ -277,7 +277,7 @@ html {
     margin-top: 25px;
     font-size: 15px;
     text-align: justify;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 #content .members-list{
@@ -365,7 +365,7 @@ html {
 
 .place-description{
     margin-top: 15px;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 /* Contact */
@@ -376,7 +376,7 @@ html {
 
 .contact-info {
     font-size: 18px;
-    line-height: 1.4;
+    line-height: 1.5;
 }
 
 .contact-info i {
