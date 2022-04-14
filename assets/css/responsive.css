@@ -11,6 +11,11 @@
 
     .contact-form .form-control {
         padding: 15px;
+        font-size: 16px;
+    }
+
+    .btn {
+        font-size: 16px;
     }
 
     .socials-list {
